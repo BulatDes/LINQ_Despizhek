@@ -1,0 +1,10 @@
+D:\2 Семестр\Основы алг\LINQ_DB\LINQ_DB\bin\Debug\LINQ_DB.exe.config
+D:\2 Семестр\Основы алг\LINQ_DB\LINQ_DB\bin\Debug\LINQ_DB.exe
+D:\2 Семестр\Основы алг\LINQ_DB\LINQ_DB\bin\Debug\LINQ_DB.pdb
+D:\2 Семестр\Основы алг\LINQ_DB\LINQ_DB\obj\Debug\LINQ_DB.Form1.resources
+D:\2 Семестр\Основы алг\LINQ_DB\LINQ_DB\obj\Debug\LINQ_DB.Properties.Resources.resources
+D:\2 Семестр\Основы алг\LINQ_DB\LINQ_DB\obj\Debug\LINQ_DB.csproj.GenerateResource.cache
+D:\2 Семестр\Основы алг\LINQ_DB\LINQ_DB\obj\Debug\LINQ_DB.csproj.CoreCompileInputs.cache
+D:\2 Семестр\Основы алг\LINQ_DB\LINQ_DB\obj\Debug\LINQ_DB.exe
+D:\2 Семестр\Основы алг\LINQ_DB\LINQ_DB\obj\Debug\LINQ_DB.pdb
+D:\2 Семестр\Основы алг\LINQ_DB\LINQ_DB\obj\Debug\LINQ_DB.csproj.AssemblyReference.cache
